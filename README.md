@@ -15,4 +15,4 @@ CWRU  Bootcamp Web Design Homework
 11. Comparison page completed.
 12. Data.py and data.html created with data table printed to data.html page.
 13. Temperature HTML visualization created with small screen view.
-14.
+14. Humidity HTML visualization created with small screen view.
