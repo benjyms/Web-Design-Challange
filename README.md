@@ -9,3 +9,4 @@ CWRU  Bootcamp Web Design Homework
 5. index.html file create (basic imputs to start with)
 6. style.css created to capture styling (basic inputs to start with)
 7. intial commit completed
+8. Working on Landing Page
