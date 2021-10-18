@@ -1,6 +1,27 @@
 /*Placeholder data for index file ignore and replace after initial commit*/
-
-
+/* Right-aligned section inside the top navigation */
+/* Right-aligned section inside the top navigation */
+/* nav{
+  
+  
+  height: 70px;
+  background-color: rgb(54, 51, 51);
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  color: white;
+  font-family: 'Prompt', sans-serif;
+  
+}
+.nav-links{
+  
+  display:flex;
+  list-style: none;
+  justify-content:space-around; */
+  
+  
+ 
+}
 
 .box {
     height: 400px;
