@@ -14,4 +14,5 @@ CWRU  Bootcamp Web Design Homework
 10. Landing page completed and used to begin based for comparison page.
 11. Comparison page completed.
 12. Data.py and data.html created with data table printed to data.html page.
-13.
+13. Temperature HTML visualization created with small screen view.
+14.
