@@ -1,3 +1,5 @@
+#commented out so as to not overwrite the data.html table.
+
 # import pandas as pd
 
 # # Read the csv file in
